@@ -30,5 +30,3 @@ Final Accuracy: ~92% on test data, showing strong capability to classify e-waste
 
 CONCLUSION:
 This project shows how AI supports sustainability by automating e-waste sorting. It reduces human risk, improves recycling efficiency, and promotes eco-friendly waste management — a step toward a cleaner, smarter planet.
-
-generate read me for this to add in github
