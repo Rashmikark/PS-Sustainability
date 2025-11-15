@@ -1,25 +1,19 @@
-# Python
+notepad .gitignore
+```
+
+Add this content:
+```
+# Database (contains user passwords!)
+database/
+*.db
+
+# User uploads
+static/uploads/
+
+# Python cache
 __pycache__/
-*.py[cod]
-*.so
-.Python
+*.pyc
+
+# Environment
 venv/
-ENV/
-
-# Large model files (GitHub has 100MB limit)
-*.h5
-*.pkl
-
-# Dataset folder (too large for GitHub)
-dataset/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# VS Code
-.vscode/
-
-# Temporary files
-*.log
-*.tmp
+env/
